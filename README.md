@@ -79,6 +79,14 @@ Before you begin, make sure you have the following installed on your system:
 **GitHub Repository:**
 [https://github.com/03brainy-clicks/serverless-backend-todo-cloudflare-worker](https://github.com/03brainy-clicks/serverless-backend-todo-cloudflare-worker)
 
+## About Hono.js
+
+[Hono.js](https://hono.dev/) is a lightweight and flexible web framework for building serverless applications with JavaScript. It simplifies the development process by providing a concise and expressive syntax.
+
+## About Cloudflare Workers
+
+[Cloudflare Workers](https://workers.cloudflare.com/) is a serverless compute platform that allows developers to deploy and run their applications at the edge of the Cloudflare network. It offers scalability, low-latency, and high-performance execution for serverless functions.
+  
 ## API Endpoints
 
 ### Get Todos
@@ -149,3 +157,5 @@ Feel free to contribute to this project by opening issues or submitting pull req
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
+
+This version includes brief descriptions of Hono.js and Cloudflare Workers, along with links to their respective websites.
